@@ -27,3 +27,7 @@ p {
 .verd{
     color: green;
 }
+#inicial:hover{
+    color: rgb(255, 0, 204);
+    cursor: pointer;
+}
