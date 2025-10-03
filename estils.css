@@ -5,3 +5,7 @@ p {
     font-size: 40px;
     text-decoration: underline;
 }
+.text-important {
+    color: red;
+    font-weight: bold;
+}   
