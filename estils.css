@@ -31,3 +31,11 @@ p {
     color: rgb(255, 0, 204);
     cursor: pointer;
 }
+p::before {
+    content: "👉 ";
+    color: blue;
+}
+p::after {
+    content: " ✔";
+    color: green;
+}
